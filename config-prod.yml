@@ -1,2 +1,2 @@
-config.pord.yml
-server.port=000
+config:
+  info: prod
