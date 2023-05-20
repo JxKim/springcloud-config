@@ -1,2 +1,2 @@
-config-dev.yml
-server.port=8001
+config:
+   info: master 
